@@ -1,0 +1,22 @@
+[2024-09-14 19:37:15] Wesley Hoff: exchange
+[2024-09-14 19:37:44] Wesley Hoff: exchange 2 pln
+[2024-09-14 19:39:18] Wesley Hoff: exchange 10 usd
+[2024-09-14 19:46:18] Wesley Hoff: exchange 3
+[2024-09-14 19:53:38] Benjamin Alder: exchange
+[2024-09-14 19:54:15] Benjamin Alder: exchange 3
+[2024-09-14 19:58:54] Stacey Reyna: exchange
+[2024-09-14 20:02:40] Johanna Alberry: exchange 3
+[2024-09-14 20:04:33] Shane Sword: exchange
+[2024-09-14 20:10:48] Violet Meyers: exchange
+[2024-09-14 20:13:12] Frederic Hart: exchange
+[2024-09-14 20:13:56] Frederic Hart: exchange usd
+[2024-09-14 20:14:12] Frederic Hart: exchange pln
+[2024-09-14 20:15:15] Sharon Gaston: exchange 2
+[2024-09-14 20:15:27] Sharon Gaston: exchange pln
+[2024-09-14 20:15:41] Sharon Gaston: exchange 2 pln
+[2024-09-14 20:19:11] Jason Webb: exchange
+[2024-09-14 20:22:27] Edna Mysliwiec: exchange
+[2024-09-14 20:22:37] Edna Mysliwiec: exchange eur
+[2024-09-14 20:23:18] Joyce Haskin: exchange
+[2024-09-14 20:23:54] Benjamin Benfield: exchange
+[2024-09-14 20:24:24] Benjamin Benfield: exchange 2 pln usd
